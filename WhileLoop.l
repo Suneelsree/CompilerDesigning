@@ -1,6 +1,6 @@
 %{
 #include<stdlib.h>
-#include "while.tab.h"
+#include "WhileLoop.tab.h"
 %}
 digit [0-9]
 letter [a-zA-Z]
